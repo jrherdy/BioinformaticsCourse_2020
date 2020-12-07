@@ -35,4 +35,4 @@ The link to this years syllabus can be found [here](https://www.genecards.org/cg
 Recordings and material presented in class will be posted here the following day.
 
 Read Mapping Thought Exercise
-  - Follow the link [here](https://docs.google.com/presentation/d/1cbwdhD0v-IpKh7wHnBVInuoFgyvE4CNDvFfgZw9HJmg/edit#slide=id.p) to learn the difficulties in aligning strands of DNA to the human genome.
+  - Follow the link [here](https://docs.google.com/presentation/d/1cbwdhD0v-IpKh7wHnBVInuoFgyvE4CNDvFfgZw9HJmg/edit#slide=id.p) for an exercise to experience the difficulties of aligning strands of DNA to the human genome.
