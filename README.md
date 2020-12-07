@@ -4,7 +4,7 @@ This is an example course webpage for a Bioinformatics course I want to teach in
 
 # Syllabus
 
-The link to this years syllabus can be found here:
+The link to this years syllabus can be found [here](https://www.genecards.org/cgi-bin/carddisp.pl?gene=RN7SK)
 
  *Weekly Lesson Plan*
 
