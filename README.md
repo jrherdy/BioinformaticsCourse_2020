@@ -1,5 +1,7 @@
 # **BioinformaticsCourse_2020**
 
+![alt text](https://cdn.psychologytoday.com/sites/default/files/field_blog_entry_images/brainnetwork.jpg)
+
 This is an example course webpage for a Bioinformatics course I want to teach in the future using all of the great materials and tips I learned in the Intro to College Teaching Course
 
 # Syllabus
